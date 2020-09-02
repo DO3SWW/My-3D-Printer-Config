@@ -1,2 +1,2 @@
 # My-3D-Printer-Config
-Marlin config for my 3D printer
+[Marlin](https://github.com/MarlinFirmware/Marlin) config for my 3D printer
